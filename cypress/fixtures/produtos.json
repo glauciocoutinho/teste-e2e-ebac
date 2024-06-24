@@ -1,0 +1,30 @@
+[
+    {
+        "nomeProduto":"Ajax Full-Zip Sweatshirt",
+        "tamanho":"XL",
+        "cor":"Blue",
+        "quantidade":2      
+
+    },
+    {
+        "nomeProduto":"Aero Daily Fitness Tee",
+        "tamanho":"XL",
+        "cor":"Black",
+        "quantidade":1        
+
+    },
+    {
+        "nomeProduto":"Balboa Persistence Tee",
+        "tamanho":"XL",
+        "cor":"Gray",
+        "quantidade":1        
+
+    },
+    {
+        "nomeProduto":"Lando Gym Jacket",
+        "tamanho":"XL",
+        "cor":"Gray",
+        "quantidade":1        
+
+    }    
+]
